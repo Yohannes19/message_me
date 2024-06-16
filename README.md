@@ -1,15 +1,13 @@
-# README
+# Message-Me Chat App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple message-me chat application using rails 5.
 
-Things you may want to cover:
+Functionality:
 
-* Ruby version
+* Allows real time communtion
 
-* System dependencies
+* integrates websocket protocol
 
-* Configuration
 
 * Database creation
 
